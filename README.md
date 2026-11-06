@@ -134,6 +134,5 @@ Se usa `172.16.0.0/16` para la **gestión de dispositivos** (switches y router) 
 Trabajo desarrollado por:
 
 - **Juan Sebastian Navarrete Rada**, código **2459562**
-- [Nombre y código de la pareja]
 
 Universidad del Valle, noviembre de 2026.
